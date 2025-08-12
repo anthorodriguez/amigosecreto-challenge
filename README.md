@@ -29,7 +29,7 @@ Esta aplicación web permite a los usuarios:
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/TU_USUARIO/AmigoSecreto.git
+https://github.com/anthorodriguez/amigosecreto-challenge.git
 ```
 
 2. Abrir el archivo `index.html` en tu navegador web

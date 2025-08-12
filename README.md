@@ -56,13 +56,13 @@ https://anthorodriguez.github.io/amigosecreto-challenge/
 
 ## Contribución
 
-Las contribuciones son bienvenidas. Para contribuir:
+¡Las contribuciones son bienvenidas! Si deseas mejorar el proyecto, sigue estos pasos:
 
-1. Realizar un Fork del repositorio
-2. Crear una rama para tu característica (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
+1. Haz un Fork del repositorio
+2. Crea una rama para tu mejora (`git checkout -b feature/MiProyecto`)
+3. Realiza tus cambios y guarda (`git commit -m 'Añadir MiProyecto'`)
+4. Sube los cambios (`git push origin feature/MiProyecto`)
+5. Crea un Pull Request en el repositorio original
 
 ## Licencia
 

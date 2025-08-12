@@ -70,9 +70,9 @@ Este proyecto está bajo la licencia MIT - ver el archivo LICENSE para más deta
 
 ## Contacto
 
-- Nombre: TU_NOMBRE
-- Email: TU_EMAIL
-- LinkedIn: TU_LINKEDIN
+- Nombre: Anthony A. Rodriguez Guerrero
+- Email: anthorodriguez305@gmail.com
+
 
 ## Agradecimientos
 

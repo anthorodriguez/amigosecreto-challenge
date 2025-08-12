@@ -42,9 +42,17 @@ git clone https://github.com/TU_USUARIO/AmigoSecreto.git
 
 ## Despliegue
 
-La aplicación está desplegada en GitHub Pages y puede ser accedida a través del siguiente enlace:
+Para desplegar la aplicación en GitHub Pages:
 
-[TU_USUARIO.github.io/AmigoSecreto](https://TU_USUARIO.github.io/AmigoSecreto)
+1. Ir a tu repositorio: https://github.com/anthorodriguez/amigosecreto-challenge
+2. Hacer clic en "Settings" (Configuraciones)
+3. En el menú de la izquierda, buscar "Pages"
+4. En "Source", seleccionar "main" o "master" como branch
+5. Hacer clic en "Save" (Guardar)
+
+Una vez configurado, la aplicación estará disponible en:
+
+https://anthorodriguez.github.io/amigosecreto-challenge/
 
 ## Contribución
 
